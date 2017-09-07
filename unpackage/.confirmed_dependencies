@@ -1,0 +1,8 @@
+{
+	"index.html": {
+		"resources": [
+			"src/css/reset.css",
+			"src/css/font-awesome.min.css"
+		]
+	}
+}
